@@ -35,3 +35,10 @@ Others
 4. JOSN (stringify, parse)
 5. +, 
 */
+
+const x = 50;
+const y = 100;
+const obj = {
+    x: x,
+    y: y
+};
